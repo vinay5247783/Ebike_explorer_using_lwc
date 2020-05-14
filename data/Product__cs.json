@@ -1,0 +1,228 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef1"
+            },
+            "Name": "FUSE X1",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 2500,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1425684/2019/9/20/aeddaee1-75b4-4d07-bddb-5b55f2ebf0ca1568972078169-Roadster-Men-Brown-Solid-High-Top-Flat-Boots-782156897207711-1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef2"
+            },
+            "Name": "FUSE X2",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 2600,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8972453/2019/3/28/2b656a22-4032-4ad6-998a-066a3c92b4171553772383023-Kook-N-Keech-Marvel-Men-Black-Iron-Man-Printed-Round-Neck-T--1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef3"
+            },
+            "Name": "FUSE X3",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 2700,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2216819/2018/2/19/11519011165167-Kook-N-Keech-Marvel-Men-Blue--White-Printed-Round-Neck-T-shirt-4891519011164959-1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef4"
+            },
+            "Name": "FUSE X4",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 2800,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1789920/2017/4/17/11492432254292-Kook-N-Keech-Men-Tshirts-151492432254065-1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef5"
+            },
+            "Name": "DYNAMO X1",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 7000,
+            "Level__c": "Racer",
+            "Category__c": "Mountain",
+            "Material__c": "Carbon",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/dynamox1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef6"
+            },
+            "Name": "DYNAMO X2",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 7200,
+            "Level__c": "Racer",
+            "Category__c": "Mountain",
+            "Material__c": "Carbon",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/dynamox2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef7"
+            },
+            "Name": "DYNAMO X3",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 7400,
+            "Level__c": "Racer",
+            "Category__c": "Mountain",
+            "Material__c": "Carbon",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/dynamox3.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef8"
+            },
+            "Name": "DYNAMO X4",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 7800,
+            "Level__c": "Racer",
+            "Category__c": "Mountain",
+            "Material__c": "Carbon",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/dynamox4.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef9"
+            },
+            "Name": "ELECTRA X1",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 4000,
+            "Level__c": "Enthusiast",
+            "Category__c": "Mountain",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/electrax1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef10"
+            },
+            "Name": "ELECTRA X2",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 4300,
+            "Level__c": "Enthusiast",
+            "Category__c": "Mountain",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/electrax2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef11"
+            },
+            "Name": "ELECTRA X3",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 4600,
+            "Level__c": "Enthusiast",
+            "Category__c": "Mountain",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/electrax3.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef12"
+            },
+            "Name": "ELECTRA X4",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 4900,
+            "Level__c": "Enthusiast",
+            "Category__c": "Mountain",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/electrax4.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef13"
+            },
+            "Name": "VOLT X1",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 1200,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/voltx1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef14"
+            },
+            "Name": "VOLT X2",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 1400,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/voltx2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef15"
+            },
+            "Name": "VOLT X3",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 1800,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/voltx3.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef16"
+            },
+            "Name": "VOLT X4",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 1900,
+            "Level__c": "Beginner",
+            "Category__c": "Commuter",
+            "Material__c": "Aluminum",
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/voltx4.jpg"
+        }
+    ]
+}

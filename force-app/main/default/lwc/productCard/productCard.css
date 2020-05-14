@@ -1,0 +1,32 @@
+img.product {
+    background:linear-gradient(to right, rgb(219, 68, 251), rgb(255, 0, 0));
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.row {
+    display: flex;
+    border-bottom: solid 1px #f3f2f2;
+}
+
+.row div:first-child {
+    background:linear-gradient(to right, rgb(219, 68, 251), rgb(255, 0, 0));
+    width: 80px;
+}
+
+.row div:nth-child(2) {
+    flex: 1;
+}
+
+section {
+    background:linear-gradient(to right, rgb(219, 68, 251), rgb(255, 0, 0));
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 8px;
+    text-transform: uppercase;
+}
+
+.price {
+    background:linear-gradient(to right, rgb(219, 68, 251), rgb(255, 0, 0));
+    color: #c23335;
+}
