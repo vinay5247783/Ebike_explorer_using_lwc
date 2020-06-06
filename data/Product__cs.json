@@ -12,7 +12,7 @@
             "Level__c": "Beginner",
             "Category__c": "Commuter",
             "Material__c": "Aluminum",
-            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1425684/2019/9/20/aeddaee1-75b4-4d07-bddb-5b55f2ebf0ca1568972078169-Roadster-Men-Brown-Solid-High-Top-Flat-Boots-782156897207711-1.jpg"
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/fusex1.jpg"
         },
         {
             "attributes": {
@@ -26,7 +26,7 @@
             "Level__c": "Beginner",
             "Category__c": "Commuter",
             "Material__c": "Aluminum",
-            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8972453/2019/3/28/2b656a22-4032-4ad6-998a-066a3c92b4171553772383023-Kook-N-Keech-Marvel-Men-Black-Iron-Man-Printed-Round-Neck-T--1.jpg"
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/fusex2.jpg"
         },
         {
             "attributes": {
@@ -40,7 +40,7 @@
             "Level__c": "Beginner",
             "Category__c": "Commuter",
             "Material__c": "Aluminum",
-            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2216819/2018/2/19/11519011165167-Kook-N-Keech-Marvel-Men-Blue--White-Printed-Round-Neck-T-shirt-4891519011164959-1.jpg"
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/fusex3.jpg"
         },
         {
             "attributes": {
@@ -54,7 +54,7 @@
             "Level__c": "Beginner",
             "Category__c": "Commuter",
             "Material__c": "Aluminum",
-            "Picture_URL__c": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1789920/2017/4/17/11492432254292-Kook-N-Keech-Men-Tshirts-151492432254065-1.jpg"
+            "Picture_URL__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/fusex4.jpg"
         },
         {
             "attributes": {

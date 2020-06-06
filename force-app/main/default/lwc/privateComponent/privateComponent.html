@@ -1,0 +1,20 @@
+<template>
+    <table>
+        <tr>
+            <td>
+                Reactive private property
+                <lightning-input type="text" onchange={changeHandler1}></lightning-input>
+                <br>
+                <b>value :{reactivePrivateProp}</b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Non Reactive private property
+                <lightning-input type="text" onchange={changeHandler2}></lightning-input>
+                <br>
+                <b>value :{nonReactivePrivateProp}</b>
+            </td>
+        </tr>
+    </table>
+</template>
